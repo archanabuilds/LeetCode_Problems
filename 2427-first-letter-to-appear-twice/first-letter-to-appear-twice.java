@@ -1,7 +1,6 @@
 class Solution {
     public char repeatedCharacter(String s) {
         HashMap<Character,Integer> hs = new HashMap<>();
-        char a = 'a';
    for(char ch : s.toCharArray())
    {
     hs.put(ch,hs.getOrDefault(ch,0)+1);
@@ -10,6 +9,6 @@ class Solution {
         return ch;
     }
    }
-   return a;
+   return ' ';
  }
 }
