@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
+| [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0877-stone-game](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0877-stone-game) |
+| [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0027-remove-element) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
