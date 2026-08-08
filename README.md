@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3110-score-of-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3110-score-of-a-string) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0415-add-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
