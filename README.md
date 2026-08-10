@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3731-find-missing-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3731-find-missing-elements) |
