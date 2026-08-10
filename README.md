@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3110-score-of-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
