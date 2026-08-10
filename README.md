@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
