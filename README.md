@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0485-max-consecutive-ones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0877-stone-game](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
