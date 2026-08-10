@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
 |  |
