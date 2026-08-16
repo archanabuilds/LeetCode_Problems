@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0567-permutation-in-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
