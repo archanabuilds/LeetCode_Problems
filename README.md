@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2090-k-radius-subarray-averages](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Monotonic Stack
 |  |
 | ------- |
