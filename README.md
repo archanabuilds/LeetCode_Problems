@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
+| [0763-partition-labels](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1208-get-equal-substrings-within-budget) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0763-partition-labels](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 ## Counting
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0763-partition-labels](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
