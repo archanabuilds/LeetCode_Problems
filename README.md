@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
+| [2951-find-the-peaks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2951-find-the-peaks) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3731-find-missing-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2951-find-the-peaks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
