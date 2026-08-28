@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0877-stone-game) |
 ## Game Theory
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
