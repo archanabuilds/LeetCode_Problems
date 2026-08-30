@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
@@ -247,4 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
