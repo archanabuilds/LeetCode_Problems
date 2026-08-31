@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2090-k-radius-subarray-averages](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2090-k-radius-subarray-averages) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 | [2951-find-the-peaks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2951-find-the-peaks) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
