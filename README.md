@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 ## Stack
 |  |
