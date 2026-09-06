@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
