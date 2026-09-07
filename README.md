@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Greedy
 |  |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
