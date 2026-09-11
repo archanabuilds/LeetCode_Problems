@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0763-partition-labels) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0724-find-pivot-index) |
