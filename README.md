@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1109-corporate-flight-bookings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1314-matrix-block-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1314-matrix-block-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1109-corporate-flight-bookings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1208-get-equal-substrings-within-budget) |
+| [1314-matrix-block-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
