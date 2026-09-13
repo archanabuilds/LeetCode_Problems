@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2485-find-the-pivot-integer](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
