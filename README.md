@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
 |  |
