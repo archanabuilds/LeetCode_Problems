@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 | [2951-find-the-peaks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2951-find-the-peaks) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3731-find-missing-elements) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2485-find-the-pivot-integer) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
