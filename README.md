@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0622-design-circular-queue) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
