@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0283-move-zeroes) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
