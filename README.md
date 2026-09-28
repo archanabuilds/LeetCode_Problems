@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0567-permutation-in-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0622-design-circular-queue) |
 ## Interactive
 |  |
@@ -363,4 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
