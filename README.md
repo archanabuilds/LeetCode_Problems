@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1446-consecutive-characters](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
