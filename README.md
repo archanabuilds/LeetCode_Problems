@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2404-most-frequent-even-element) |
 | [2951-find-the-peaks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2951-find-the-peaks) |
 | [3028-ant-on-the-boundary](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3028-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3364-minimum-positive-sum-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [3028-ant-on-the-boundary](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3028-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3904-smallest-stable-index-ii) |
