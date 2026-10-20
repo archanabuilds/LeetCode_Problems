@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1094-car-pooling](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3731-find-missing-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1208-get-equal-substrings-within-budget) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
