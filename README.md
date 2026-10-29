@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2951-find-the-peaks) |
 | [3028-ant-on-the-boundary](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3028-ant-on-the-boundary) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1094-car-pooling) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3028-ant-on-the-boundary](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3028-ant-on-the-boundary) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3498-reverse-degree-of-a-string](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/archanabuilds/LeetCode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/archanabuilds/LeetCode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [3028-ant-on-the-boundary](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3028-ant-on-the-boundary) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/archanabuilds/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
